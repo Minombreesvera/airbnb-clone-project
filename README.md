@@ -1,6 +1,6 @@
 The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack developmIIEHZfocusing on backend systems, database design, API development, and application security. This project enables learners to understand complex architectures, workflows, and collaborative team dynamics while building a scalable web application.Master collaborative team workflows using GitHub. 
 
-TEAM ROLES
+Team Roles
 
 BUSINESS A : A business analyst understands a customer's business needs and translates those needs into requirements. Also helps the product development team understand the entire business process of the busines so they can reach maximum satisfaction wth the clients
 PRODUCT OWNER : A product owner is incharge of keeping the vision of the business and ensuring that at every point in the business the product developers are in line with it and at the end of the process. They are also incharge of ensuring the results are in line with the vision.
