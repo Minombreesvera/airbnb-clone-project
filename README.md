@@ -13,3 +13,17 @@ TEST AUTOMATION ENGINEER : Tests the application to know that they are reliable 
 DEVOPS ENGINEER: Facilitates cooperation between development and operations
 teams and build continuous integration and continuous delivery (CI/CD)
 pipelines for faster delivery.
+
+Technology Stack
+
+CI/CD Pipelines
+Django
+MySQL
+GraphQL
+Git
+
+CI/CD Pipelines: An automated process that integrates and deploys software changes.It combines Continuous Integration (CI) and Continuous Delivery (CD) to build, test, and release applications more quickly and reliably.
+Django: It is a high-level Python web framework that encourages rapid development and clean pragmatic design.
+MySQL: Database management system that’s used to retrieve, update, delete, and also manipulate data in relational databases.
+GraphQL: An open-source data query and manipulation language for APIs and also makes it easier to aggregate data from multiple sources.
+PostgreSQL: It is designed for enterprise-level performance and is valued for its robust features and reliability.
