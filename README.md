@@ -101,3 +101,21 @@ Property management: Hosts can create, edit, and manage their property listings.
 Booking system: The booking system manages reservations between guests and hosts. It handles availability checks, date selection, price calculations, and booking confirmations or cancellations
 Messaging system: A built-in chat or messaging feature allows hosts and guests to communicate directly before and after booking. It supports inquiries, negotiations, and clarifications about stays.
 Admin dashboard: Admins can monitor users, listings, and transactions from a centralized dashboard. It supports moderation, dispute resolution, and system oversight. This ensures platform safety, maintains quality control, and allows administrators to enforce rules and handle reports efficiently.
+
+API Security
+
+Authentication
+Authorization
+Data Encryption
+Secure Payment Processing
+
+Authentication:Authentication ensures that only verified users can access the system by requiring secure login credentials (e.g., email and password) and optionally enforcing two-factor authentication (2FA).
+Authorisation:Authorization controls what different users (e.g., guest, host, admin) can do within the platform.
+Data Encryption:All sensitive data transmitted between clients and servers (like login credentials and payment details) is encrypted using HTTPS/TLS.
+Secure Payment Processing:Payments are handled through trusted third-party gateways (e.g., Stripe, PayPal, Flutterwave) that comply with PCI DSS standards.
+
+Why is this important?
+It prevents unauthorized access, impersonation, and data breaches. Protecting user accounts ensures that private information, bookings, and financial details remain secure.
+It prevents privilege abuse, ensuring users can only perform actions relevant to their role. This protects both data integrity and system stability.
+Encryption ensures that even if data is intercepted or breached, it remains unreadable and unusable to malicious actors.
+Financial security is essential for user trust. Secure payment handling prevents fraud, chargeback abuse, and identity theft.
